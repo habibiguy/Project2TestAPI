@@ -1,7 +1,7 @@
 {
   "WatchNow":
   [
-    {"MovieName":"The Godfather","MovieSummary":"The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.", "MovieLength":"2h 55m","MovieYear":"1972","MovieGenre":"Crime, Drama","MovieRating":"9.2","MovieDirector":"Francis Ford Coppola","MoviePoster":"the_godfather.jpg","MovieTrailer":"https://www.youtube.com/watch?v=UaVTIH8mujA&t=49s"}
+    {"MovieName":"The Godfather","MovieSummary":"The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.","MovieLength":"2h 55m","MovieYear":"1972","MovieGenre":"Crime, Drama","MovieRating":"9.2","MovieDirector":"Francis Ford Coppola","MoviePoster":"the_godfather.jpg","MovieTrailer":"https://www.youtube.com/watch?v=UaVTIH8mujA&t=49s"}
   ],
   "Status":"OK"
 }
