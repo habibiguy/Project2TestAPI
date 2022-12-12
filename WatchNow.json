@@ -9,7 +9,8 @@
      "MovieRating":"9.2",
      "MovieDirector":"Francis Ford Coppola",
      "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/the_godfather.jpg",
-     "MovieTrailer":"https://www.youtube.com/watch?v=UaVTIH8mujA&t=49s"},
+     "MovieTrailer":"https://www.youtube.com/watch?v=UaVTIH8mujA&t=49s",
+     "MovieIMDB":"https://www.imdb.com/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=KS03FBEMA6SRY9DAYS0S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_2"},
     
     {"MovieName":"The Dark Knight",
      "MovieSummary":"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
@@ -19,7 +20,8 @@
      "MovieRating":"9.0",
      "MovieDirector":"Christopher Nolan",
      "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/the_dark_knight.jpg",
-     "MovieTrailer":"https://www.youtube.com/watch?v=EXeTwQWrcwY"},
+     "MovieTrailer":"https://www.youtube.com/watch?v=EXeTwQWrcwY",
+     "MovieIMDB":"https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=KS03FBEMA6SRY9DAYS0S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_3"},
     
      {"MovieName":"Inception",
      "MovieSummary":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
@@ -29,7 +31,8 @@
      "MovieRating":"8.7",
      "MovieDirector":"Christopher Nolan",
      "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/inception.jpg",
-     "MovieTrailer":"https://www.youtube.com/watch?v=YoHD9XEInc0"},
+     "MovieTrailer":"https://www.youtube.com/watch?v=YoHD9XEInc0",
+     "MovieIMDB":"https://www.imdb.com/title/tt1375666/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=KS03FBEMA6SRY9DAYS0S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_14"},
     
     {"MovieName":"The Matrix",
      "MovieSummary":"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
@@ -39,7 +42,8 @@
      "MovieRating":"8.7",
      "MovieDirector":"Lana & Lilly Wachowski",
      "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/the_matrix.jpg",
-     "MovieTrailer":"https://www.youtube.com/watch?v=m8e-FF8MsqU"},
+     "MovieTrailer":"https://www.youtube.com/watch?v=m8e-FF8MsqU",
+     "MovieIMDB":"https://www.imdb.com/title/tt0133093/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=KS03FBEMA6SRY9DAYS0S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_16"},
     
      {"MovieName":"Goodfellas",
      "MovieSummary":"The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
@@ -49,7 +53,8 @@
      "MovieRating":"8.7",
      "MovieDirector":"Martin Scorsese",
      "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/goodfellas.jpg",
-     "MovieTrailer":"https://www.youtube.com/watch?v=2ilzidi_J8Q"},
+     "MovieTrailer":"https://www.youtube.com/watch?v=2ilzidi_J8Q",
+     "MovieIMDB":"https://www.imdb.com/title/tt0099685/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=KS03FBEMA6SRY9DAYS0S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_17"},
     
      {"MovieName":"Fight Club",
      "MovieSummary":"An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
@@ -59,7 +64,8 @@
      "MovieRating":"8.8",
      "MovieDirector":"David Fincher",
      "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/FightClub.jpg",
-     "MovieTrailer":"https://www.youtube.com/watch?v=BdJKm16Co6M&t=1s"},
+     "MovieTrailer":"https://www.youtube.com/watch?v=BdJKm16Co6M&t=1s",
+     "MovieIMDB":"https://www.imdb.com/title/tt0137523/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=KS03FBEMA6SRY9DAYS0S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_12"},
        
     {"MovieName":"Interstellar",
      "MovieSummary":"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
@@ -69,7 +75,8 @@
      "MovieRating":"8.6",
      "MovieDirector":"Christopher Nolan",
      "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/Interstellar.jpg",
-     "MovieTrailer":"https://www.youtube.com/watch?v=zSWdZVtXT7E&t=2s"},
+     "MovieTrailer":"https://www.youtube.com/watch?v=zSWdZVtXT7E&t=2s",
+     "MovieIMDB":"https://www.imdb.com/title/tt0816692/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=KS03FBEMA6SRY9DAYS0S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_26"},
     
      {"MovieName":"Parasite",
      "MovieSummary":"Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
@@ -79,7 +86,8 @@
      "MovieRating":"8.5",
      "MovieDirector":"Bong Joon Ho",
      "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/Parasite.jpg",
-     "MovieTrailer":"https://www.youtube.com/watch?v=isOGD_7hNIY"},
+     "MovieTrailer":"https://www.youtube.com/watch?v=isOGD_7hNIY",
+     "MovieIMDB":"https://www.imdb.com/title/tt6751668/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=KS03FBEMA6SRY9DAYS0S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_34"},
   ],
   "Status":"OK"
 }
