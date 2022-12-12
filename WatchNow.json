@@ -58,7 +58,7 @@
      "MovieGenre":"Drama",
      "MovieRating":"8.8",
      "MovieDirector":"David Fincher",
-     "MoviePoster":"",
+     "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/FightClub.jpg",
      "MovieTrailer":"https://www.youtube.com/watch?v=BdJKm16Co6M&t=1s"},
        
     {"MovieName":"Interstellar",
@@ -68,7 +68,7 @@
      "MovieGenre":"Adventure, Drama, Sci-Fi",
      "MovieRating":"8.6",
      "MovieDirector":"Christopher Nolan",
-     "MoviePoster":"",
+     "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/Interstellar.jpg",
      "MovieTrailer":"https://www.youtube.com/watch?v=zSWdZVtXT7E&t=2s"},
     
      {"MovieName":"Parasite",
@@ -78,7 +78,7 @@
      "MovieGenre":"Drama, Thriller",
      "MovieRating":"8.5",
      "MovieDirector":"Bong Joon Ho",
-     "MoviePoster":"",
+     "MoviePoster":"https://raw.githubusercontent.com/habibiguy/Project2TestAPI/main/Parasite.jpg",
      "MovieTrailer":"https://www.youtube.com/watch?v=isOGD_7hNIY"},
   ],
   "Status":"OK"
